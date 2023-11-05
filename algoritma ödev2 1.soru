@@ -1,0 +1,31 @@
+#include <stdio.h> 
+
+  
+
+int main() { 
+
+    
+
+    float a , b ; 
+
+     
+
+   printf("a icin ondalikli sayi yaziniz:"); 
+
+   scanf("%f",&a); 
+
+   printf("b için ondakli sayi yaziniz;"); 
+
+   scanf("%f",&b); 
+
+    
+
+   printf("Toplam:%0.2f,",a+b); 
+
+    
+
+    return 0; 
+
+} 
+
+ 
